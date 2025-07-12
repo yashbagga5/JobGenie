@@ -31,16 +31,16 @@ A smart, AI-powered Job Recommendation System that matches candidates with suita
 
 ## 📁 Project Structure
 
-job-recommendation-system/
-│
-├── data/ # Sample resumes and job listings
-├── models/ # Pretrained and fine-tuned models
-├── app/ # Streamlit frontend
-│ ├── main.py # Streamlit app
-│ └── utils.py # Helper functions
-├── notebooks/ # Jupyter notebooks for development
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+- job-recommendation-system/
+- │
+- ├── data/ # Sample resumes and job listings
+- ├── models/ # Pretrained and fine-tuned models
+- ├── app/ # Streamlit frontend
+- │ ├── main.py # Streamlit app
+- │ └── utils.py # Helper functions
+- ├── notebooks/ # Jupyter notebooks for development
+- ├── README.md # Project documentation
+- └── requirements.txt # Python dependencies
 
 ---
 
@@ -80,4 +80,4 @@ job-recommendation-system/
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
